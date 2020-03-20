@@ -1,1 +1,1 @@
-# awesome_kql
+# Microsoft Kusto query language
