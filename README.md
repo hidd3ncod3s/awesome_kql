@@ -1,1 +1,1 @@
-# Microsoft Kusto query language
+# Microsoft Kusto Query Language
